@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="glass-panel bento-item hero-box">
       <div className="hero-content">
         <div className="status-badge">
-          <span className="dot"></span> Active Student
+          <span className="dot"></span> Open To Work!
         </div>
         <h1>Hi, I'm <span className="highlight">Andreas Saputra Tambun</span></h1>
         <h2>Information Systems and Technology</h2>
