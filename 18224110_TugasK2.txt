@@ -1,0 +1,7 @@
+NIM : 18224110
+Nama : [NAMA ANDA DISINI]
+Tugas : Individu - Portofolio Website (DRPL)
+
+Link YouTube (Video Demo) : [MASUKKAN LINK YOUTUBE PUBLIC DISINI]
+Link Repository Github    : [MASUKKAN LINK REPOSITORY GITHUB DISINI]
+Link Website Portofolio   : [MASUKKAN LINK WEBSITE LIVE (GITHUB PAGES) DISINI]
