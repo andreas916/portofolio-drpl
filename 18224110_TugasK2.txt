@@ -1,7 +1,7 @@
 NIM : 18224110
-Nama : [NAMA ANDA DISINI]
+Nama : Andreas Saputra Tambun
 Tugas : Individu - Portofolio Website (DRPL)
 
-Link YouTube (Video Demo) : [MASUKKAN LINK YOUTUBE PUBLIC DISINI]
-Link Repository Github    : [MASUKKAN LINK REPOSITORY GITHUB DISINI]
-Link Website Portofolio   : [MASUKKAN LINK WEBSITE LIVE (GITHUB PAGES) DISINI]
+Link YouTube (Video Demo) : 
+Link Repository Github    : https://github.com/andreas916/portofolio-drpl
+Link Website Portofolio   : https://andreas916.github.io/portofolio-drpl/
