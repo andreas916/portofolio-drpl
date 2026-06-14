@@ -2,6 +2,6 @@ NIM : 18224110
 Nama : Andreas Saputra Tambun
 Tugas : Individu - Portofolio Website (DRPL)
 
-Link YouTube (Video Demo) : 
+Link YouTube (Video Demo) : https://youtu.be/-eOTf4bFSCc
 Link Repository Github    : https://github.com/andreas916/portofolio-drpl
 Link Website Portofolio   : https://andreas916.github.io/portofolio-drpl/
